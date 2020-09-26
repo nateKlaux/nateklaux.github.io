@@ -137,8 +137,7 @@ Relevant Work Become a Technical Writer (Course)  Earned certificate in an inten
       
       <guid>https://nateklaux.github.io/samples/</guid>
       <description>Hugo and GitHub Pages Tutorial
- As well as display general technical writing competencies, this tutorial showcases my proficiency with Markdown, version control (Git), and static site generators (Hugo). It also speaks to my understanding of knowledge management databases.    OpenAPI Specification Example
- I integrated an API into OpenAPI Spec using Stoplight Studio. It shows my ability to work with APIs and create developer documentation.    API Reference (SurfReport)</description>
+ I created a Hugo + GitHub Pages tutorial. Hugo&amp;rsquo;s documentation for hosting a webpage on GitHub Pages is sparse and potentially confusing for those who with little familiarity with Hugo or static site generators. This tutorial bridges that gap by simplifying both the concepts and steps. As well as display general technical writing competencies, it also showcases my proficiency with Markdown, command-line Git, and static site generators (Hugo).</description>
     </item>
     
     <item>
