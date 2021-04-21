@@ -6,11 +6,7 @@
     <description>Recent content on Nate Laux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 20 Mar 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.natelaux.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 20 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://www.natelaux.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Render LaTeX using KaTeX</title>
       <link>https://www.natelaux.com/md_samples/non/render-latex-using-katex/</link>
@@ -127,8 +123,9 @@ Location: Los Angeles, California</description>
       
       <guid>https://www.natelaux.com/experience/</guid>
       <description>A PDF version of my résumé is available here. Also, you can check out my LinkedIn profile.
-Relevant Work Technical Writing Student  Integrate an API into OpenAPI Specification with Stoplight Studio Create sample API reference documentation Write a tutorial to demonstrate how to use Hugo and GitHub Pages Create sample flowchart diagrams and user guides  Freelance Copyeditor Copyeditor (Jan. 2019 – Present)
- Copyedit a variety of works including monographs, theses, and technical documents Provide detailed edits to ensure accuracy in grammar, usage, clarity, and logical flow  Go Get Em Tiger Shift Supervisor (Aug.</description>
+Relevant Work Chainalysis Technical Writer &amp;ndash; (March 2021 - Present)
+ Lots of cool things.  Naviga Technical Writer Contractor &amp;ndash; (November 2020 - March 2021)
+ Wrote API, user guide, and release note documentation Interviewed a globally distributed team of subject matter experts in both asynchrounous and synchrounous formats Diagram complex business workflows and software integrations Created a documentation structure where nothing existed Implemented docs-as-code tooling  Contract &amp;amp; Freelance Technical Writer &amp;ndash; (June 2020 - March 2021)</description>
     </item>
     
     <item>

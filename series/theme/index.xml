@@ -6,11 +6,7 @@
     <description>Recent content in Theme on Nate Laux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 20 Mar 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.natelaux.com/series/theme/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 20 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://www.natelaux.com/series/theme/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Render LaTeX using KaTeX</title>
       <link>https://www.natelaux.com/md_samples/non/render-latex-using-katex/</link>
