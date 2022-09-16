@@ -17,7 +17,7 @@
 +++ katex = &amp;#34;true&amp;#34; +++ If you want to enable KaTeX or MathJax for all post, add katex = ture or math = true in config.toml in [params] section.
 It&amp;rsquo;s almost a dropin alternative to the mathjax solution,you should just choose one of them.
 Inline math looks like this
-This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} =1$ This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$</description>
+This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$ This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$</description>
     </item>
     
     <item>
@@ -44,14 +44,15 @@ This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} =1$ This is text with 
       <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://www.natelaux.com/md_samples/non/theme-demo/</guid>
-      <description>Style Demo h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading  This is bold text
+      <description>Style Demo h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading This is bold text
 This is bold text
 This is italic text
 This is italic text
 Deleted text
 This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$ and with math blocks:
 $$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$
-   Heading Another heading     text text   text text   text text     Block quotes are written like so.</description>
+Heading Another heading text text text text text text Block quotes are written like so.
+They can span multiple paragraphs, if you like.</description>
     </item>
     
     <item>
@@ -85,7 +86,7 @@ Save it somewhere specific as we will be using it in the next step.
 More complete instructions are available at installing hugo
 Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
 Follow the following steps:
- Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313 Corresponding pseudo commands:</description>
     </item>
     
     <item>
@@ -94,7 +95,7 @@ Follow the following steps:
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
       <guid>https://www.natelaux.com/md_samples/non/migrate-from-jekyll/</guid>
-      <description>Table of Contents  Move static content to static Create your Hugo configuration file Set your configuration publish folder to site Convert Jekyll templates to Hugo templates Convert Jekyll plugins to Hugo shortcodes  Implementation Usage   Finishing Touches  Fix Content Clean Up   A practical example in a diff  Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output.</description>
+      <description>Table of Contents Move static content to static Create your Hugo configuration file Set your configuration publish folder to site Convert Jekyll templates to Hugo templates Convert Jekyll plugins to Hugo shortcodes Implementation Usage Finishing Touches Fix Content Clean Up A practical example in a diff Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static.</description>
     </item>
     
     <item>
@@ -103,7 +104,7 @@ Follow the following steps:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.natelaux.com/about/</guid>
-      <description>I’m a technical writer with an educational background in philosophy. I have a long history of transforming complex ideas into clean, accessible writing. I am a skilled writer, thorough editor, competent researcher, and fast learner with terrific collaboration and soft skills.</description>
+      <description>I am a technical writer with an educational background in philosophy and a long history of transforming complex ideas into clean, accessible prose. In my professional experience, I have demonstrated skilled writing, thorough but compassionate editing, competent research, and terrific collaboration and soft skills.</description>
     </item>
     
     <item>
@@ -124,8 +125,8 @@ Location: Los Angeles, California</description>
       <guid>https://www.natelaux.com/experience/</guid>
       <description>A PDF version of my résumé is available here. Also, you can check out my LinkedIn profile.
 Relevant Work Chainalysis Technical Writer &amp;ndash; (March 2021 - Present)
- Lots of cool things.  Naviga Technical Writer Contractor &amp;ndash; (November 2020 - March 2021)
- Wrote API, user guide, and release note documentation Interviewed a globally distributed team of subject matter experts in both asynchrounous and synchrounous formats Diagram complex business workflows and software integrations Created a documentation structure where nothing existed Implemented docs-as-code tooling  Contract &amp;amp; Freelance Technical Writer &amp;ndash; (June 2020 - March 2021)</description>
+Lots of cool things. Naviga Technical Writer Contractor &amp;ndash; (November 2020 - March 2021)
+Wrote API, user guide, and release note documentation Interviewed a globally distributed team of subject matter experts in both asynchrounous and synchrounous formats Diagram complex business workflows and software integrations Created a documentation structure where nothing existed Implemented docs-as-code tooling Contract &amp;amp; Freelance Technical Writer &amp;ndash; (June 2020 - March 2021)</description>
     </item>
     
     <item>
@@ -135,7 +136,7 @@ Relevant Work Chainalysis Technical Writer &amp;ndash; (March 2021 - Present)
       
       <guid>https://www.natelaux.com/samples/</guid>
       <description>Hugo and GitHub Pages Tutorial
- I created a Hugo + GitHub Pages tutorial. Hugo&amp;rsquo;s documentation for hosting a webpage with GitHub Pages is sparse and potentially confusing for those with little familiarity of static site generators. This tutorial mitigates that problem by simplifying both the concepts and steps. As well as display general technical writing competencies, it showcases my proficiency with Markdown, command-line Git, and static site generators.</description>
+I created a Hugo + GitHub Pages tutorial. Hugo&amp;rsquo;s documentation for hosting a webpage with GitHub Pages is sparse and potentially confusing for those with little familiarity of static site generators. This tutorial mitigates that problem by simplifying both the concepts and steps. As well as display general technical writing competencies, it showcases my proficiency with Markdown, command-line Git, and static site generators. It was written in Markdown, but converted and published in pdf for easy distribution.</description>
     </item>
     
     <item>
