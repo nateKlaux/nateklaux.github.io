@@ -99,25 +99,25 @@ Clone the hugo repository Go into the repo Run hugo in server mode and build the
     </item>
     
     <item>
-      <title>About</title>
+      <title>about</title>
       <link>https://www.natelaux.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.natelaux.com/about/</guid>
-      <description>I am a technical writer with an educational background in philosophy and a long history of transforming complex ideas into clean, accessible prose. In my professional experience, I have demonstrated skilled writing, thorough but compassionate editing, competent research, and terrific collaboration and soft skills.</description>
+      <description>Based in Los Angeles, CA, I am a technical writer with a background in philosophy and a long history of transforming complex ideas into clear, accessible prose. Throughout my career, I have exhibited adept writing, thorough yet empathetic editing, strong research capabilities, along with outstanding collaboration and soft skills.</description>
     </item>
     
     <item>
-      <title>Contact</title>
+      <title>contact</title>
       <link>https://www.natelaux.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.natelaux.com/contact/</guid>
-      <description>I&amp;rsquo;m located in Los Angeles, CA. Feel free to reach me by email or LinkedIn.</description>
+      <description></description>
     </item>
     
     <item>
-      <title>Experience &amp; Education</title>
+      <title>experience</title>
       <link>https://www.natelaux.com/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -128,7 +128,7 @@ Create end-user and developer documentation for multiple products Check out API 
     </item>
     
     <item>
-      <title>Portfolio Samples</title>
+      <title>samples</title>
       <link>https://www.natelaux.com/samples/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
