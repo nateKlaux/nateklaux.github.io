@@ -5,6 +5,7 @@
     <link>https://www.natelaux.com/tags/</link>
     <description>Recent content in Tags on Nate Laux</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://www.natelaux.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="https://www.natelaux.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

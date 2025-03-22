@@ -5,47 +5,35 @@
     <link>https://www.natelaux.com/</link>
     <description>Recent content on Nate Laux</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://www.natelaux.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="https://www.natelaux.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>about</title>
       <link>https://www.natelaux.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.natelaux.com/about/</guid>
-      <description>I am a technical writer with a unique background in philosophy, specializing in blockchain and developer documentation. My expertise lies in converting complex concepts into easy-to-understand content, which I apply through rigorous research and cross-departmental collaboration. My approach to documentation is always user-focused, aiming to improve product usability and customer satisfaction.
-Based in Los Angeles, CA.</description>
+      <description>I&amp;rsquo;m a Technical Writer who thrives on transforming complex developer concepts into clear, actionable documentation. With experience across blockchain, financial compliance, and investigations technology, I specialize in creating documentation that serves both technical and business needs.&#xA;My expertise includes crafting comprehensive API, SDK, and UI documentation in docs-as-code environments. I excel in information architecture and documentation automation, which paired with programming abilities for testing APIs, validating code examples, and building documentation tools, ensures documentation that truly serves customers.</description>
     </item>
-    
     <item>
       <title>contact</title>
       <link>https://www.natelaux.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.natelaux.com/contact/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>experience</title>
       <link>https://www.natelaux.com/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.natelaux.com/experience/</guid>
-      <description>A PDF of my résumé is available here. Alternatively, you can check out my LinkedIn profile.
-Relevant Work Chainalysis Technical Writer &amp;ndash; (March 2021 - Present)
-Develop and maintain comprehensive documentation for blockchain API and UI products, catering to both public and private sector customers See API documentation for products one, two, and three Author and test Python scripts, craft step-by-step tutorials, and deliver developer-friendly code snippets within a docs-as-code environment Utilize custom JavaScript, CSS, and HTML to enhance user experience of documentation website Develop sensible information architecture and organizational style guide standards to ensure coherent and consistent documentation Collaborate with Product, Engineering, Design, and Marketing teams to deliver accurate and comprehensive content Interview candidates and mentor junior technical writers to strengthen the documentation team Naviga Technical Writer Contractor &amp;ndash; (November 2020 - March 2021)</description>
+      <description>A PDF of my résumé is available here. Alternatively, you can check out my LinkedIn profile.&#xA;Technical Writer, Chainalysis March 2021 - Present&#xA;At Chainalysis, I focus on delivering clear, accurate, and user-centric content for our API, SDK, and UI users in a docs-as-code environment. I collaborate cross-functionally with Product Managers, Engineering Managers, Product Design, Product Marketing, and Customer Support to ensure documentation meets both technical and business requirements. I own the documentation process from start to finish, from planning through delivery and maintenance.</description>
     </item>
-    
     <item>
       <title>samples</title>
       <link>https://www.natelaux.com/samples/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.natelaux.com/samples/</guid>
-      <description>Developer Portal and REST API Reference Documentation
-Product one Product two Product three Python Scraper and Corresponding Tutorial
-I created a Python-based web scraper to extract winemaker profiles from the various online sources, translate the text to English, and store the gathered data in a CSV file. Alongside the script, I crafted an in-depth tutorial that guides readers through the process of building the web scraper, explaining the purpose and functionality of each code segment.</description>
+      <description>OpenAPI Spec: I hand wrote an OAS definition. The preceding link showcases the final API reference. Each endpoint includes examples, accurate data types and nullability, and consistent, descriptive naming across requests, responses, and parameters.&#xA;Python Scripts: I write Python scripts with accompanying tutorials. This one calls an endpoint, applies a client-side filter that isn’t supported by query parameters, then calls another endpoint to action the data. The tutorial guides the user through the script’s functions with the goal of teaching how to use the endpoints in a live scenario.</description>
     </item>
-    
   </channel>
 </rss>
