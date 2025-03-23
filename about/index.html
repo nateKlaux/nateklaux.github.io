@@ -5,15 +5,14 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="Content-Language" content="en">
+    <meta name="color-scheme" content="light dark">
+
+    
 
     <meta name="author" content="NATHAN K. LAUX">
     <meta name="description" content="I&rsquo;m a Technical Writer who thrives on transforming complex developer concepts into clear, actionable documentation. With experience across blockchain, financial compliance, and investigations technology, I specialize in creating documentation that serves both technical and business needs.
 My expertise includes crafting comprehensive API, SDK, and UI documentation in docs-as-code environments. I excel in information architecture and documentation automation, which paired with programming abilities for testing APIs, validating code examples, and building documentation tools, ensures documentation that truly serves customers.">
     <meta name="keywords" content="blog, technical writer, houellebecq">
-
-    
-      <script src="https://twemoji.maxcdn.com/v/latest/twemoji.min.js" crossorigin="anonymous"></script>
-    
 
     <meta name="twitter:card" content="summary"/><meta name="twitter:title" content="about"/>
 <meta name="twitter:description" content="I&rsquo;m a Technical Writer who thrives on transforming complex developer concepts into clear, actionable documentation. With experience across blockchain, financial compliance, and investigations technology, I specialize in creating documentation that serves both technical and business needs.
@@ -29,9 +28,6 @@ My expertise includes crafting comprehensive API, SDK, and UI documentation in d
 
 
 
-    
-      <base href="https://www.natelaux.com/about/">
-    
     <title>
   about · Nate Laux
 </title>
@@ -40,9 +36,7 @@ My expertise includes crafting comprehensive API, SDK, and UI documentation in d
       <link rel="canonical" href="https://www.natelaux.com/about/">
     
 
-    <link href="https://fonts.googleapis.com/css?family=Lato:400,700%7CMerriweather:300,700%7CSource+Code+Pro:400,700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/all.css" integrity="sha384-Bfad6CLCknfcloXFOyFnlgtENryhrpZCe29RTifKEixXQZ38WheV+i/6YWSzkz3V" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" integrity="sha256-l85OmPOjvil/SOvVt3HnSSjzF1TUMyT9eV0c2BzEGzU=" crossorigin="anonymous" />
+    <link rel="preload" href="https://www.natelaux.com/fonts/forkawesome-webfont.woff2?v=1.2.0" as="font" type="font/woff2" crossorigin>
 
     
       
@@ -67,6 +61,9 @@ My expertise includes crafting comprehensive API, SDK, and UI documentation in d
     <link rel="icon" type="image/png" href="https://www.natelaux.com/favicon.svg" sizes="32x32">
     <link rel="icon" type="image/png" href="https://www.natelaux.com/favicon.svg" sizes="16x16">
 
+    <link rel="apple-touch-icon" href="https://www.natelaux.com/images/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://www.natelaux.com/images/apple-touch-icon.png">
+
     <meta name="generator" content="Hugo 0.121.2">
   </head>
 
@@ -74,9 +71,15 @@ My expertise includes crafting comprehensive API, SDK, and UI documentation in d
   
     
   
-  <body class="colorscheme-dark"
-        onload=" twemoji.parse(document.body); "
-  >
+  <body class="preload-transitions colorscheme-dark">
+    
+<div class="float-container">
+    <a id="dark-mode-toggle" class="colorscheme-toggle">
+        <i class="fa fa-adjust fa-fw" aria-hidden="true"></i>
+    </a>
+</div>
+
+
     <main class="wrapper">
       <nav class="navigation">
   <section class="container">
@@ -84,38 +87,32 @@ My expertise includes crafting comprehensive API, SDK, and UI documentation in d
       Nate Laux
     </a>
     
-    <input type="checkbox" id="menu-toggle" />
-    <label class="menu-button float-right" for="menu-toggle"><i class="fas fa-bars"></i></label>
-    <ul class="navigation-list">
-      
+      <input type="checkbox" id="menu-toggle" />
+      <label class="menu-button float-right" for="menu-toggle">
+        <i class="fa fa-bars fa-fw" aria-hidden="true"></i>
+      </label>
+      <ul class="navigation-list">
         
-          <li class="navigation-item">
-            
+          
+            <li class="navigation-item">
               <a class="navigation-link" href="https://www.natelaux.com/about/">about</a>
-            
-          </li>
-        
-          <li class="navigation-item">
-            
+            </li>
+          
+            <li class="navigation-item">
               <a class="navigation-link" href="https://www.natelaux.com/experience/">experience</a>
-            
-          </li>
-        
-          <li class="navigation-item">
-            
+            </li>
+          
+            <li class="navigation-item">
               <a class="navigation-link" href="https://www.natelaux.com/samples/">samples</a>
-            
-          </li>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="mailto:nathan.k.laux@gmail.com">contact</a>
+            </li>
+          
         
-          <li class="navigation-item">
-            
-              <a class="navigation-link" href="mailto:nathan.k.laux@gmail.com" target="_blank" rel="noopener noreferrer">contact</a>
-            
-          </li>
         
-      
-      
-    </ul>
+      </ul>
     
   </section>
 </nav>
@@ -126,7 +123,11 @@ My expertise includes crafting comprehensive API, SDK, and UI documentation in d
   <section class="container page">
   <article>
     <header>
-      <h1>about</h1>
+      <h1 class="title">
+        <a class="title-link" href="https://www.natelaux.com/about/">
+          about
+        </a>
+      </h1>
     </header>
 
     <p>I&rsquo;m a Technical Writer who thrives on transforming complex developer concepts into clear, actionable documentation. With experience across blockchain, financial compliance, and investigations technology, I specialize in creating documentation that serves both technical and business needs.</p>
@@ -141,7 +142,13 @@ My expertise includes crafting comprehensive API, SDK, and UI documentation in d
       </div>
 
       
+
     </main>
+
+    
+      
+      <script src="https://www.natelaux.com/js/coder.min.cb0c595e02234420f3ad3886bf4a9bd2874d0e1e78e090138a9ef158b35aaf17.js" integrity="sha256-ywxZXgIjRCDzrTiGv0qb0odNDh544JATip7xWLNarxc="></script>
+    
 
     
 
@@ -161,6 +168,15 @@ if (!doNotTrack) {
 
     
 
+    
+
+    
+
+    
+
+    
+
+    
   </body>
 
 </html>
